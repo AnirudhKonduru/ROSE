@@ -1,0 +1,1644 @@
+AK061247 Oryza sativa chromosome 11 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11428729 - 11430728
+OsREG607
+
+AK061247 Oryza sativa chromosome 11 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11428729 - 11430728
+OsREG447
+
+AK068459 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14159396 - 14161395
+OsREG497
+
+AK068459 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14159396 - 14161395
+OsREG439
+
+AK068459 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14159396 - 14161395
+OsREG527
+
+AK068459 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14159396 - 14161395
+OsREG515
+
+AK068459 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14159396 - 14161395
+OsREG518
+
+AK068459 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14159396 - 14161395
+OsREG501
+
+AK068459 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14159396 - 14161395
+OsREG531
+
+AK068459 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14159396 - 14161395
+OsREG585
+
+AK068459 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14159396 - 14161395
+OsREG476
+
+AK099991 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 33069622 - 33071621
+OsREG623
+
+AK099991 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 33069622 - 33071621
+OsREG436
+
+AK099991 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 33069622 - 33071621
+OsREG521
+
+AK099991 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 33069622 - 33071621
+OsREG481
+
+AK102303 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 6893178 - 6895177
+OsREG550
+
+AK102303 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 6893178 - 6895177
+OsREG498
+
+AK102303 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 6893178 - 6895177
+OsREG541
+
+AK102303 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 6893178 - 6895177
+OsREG628
+
+AK102303 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 6893178 - 6895177
+OsREG593
+
+AK102303 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 6893178 - 6895177
+OsREG640
+
+AK102303 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 6893178 - 6895177
+OsREG589
+
+AK102303 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 6893178 - 6895177
+OsREG647
+
+AK065365 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22036665 - 22038664
+OsREG593
+
+AK065365 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22036665 - 22038664
+OsREG447
+
+AK070901 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17496806 - 17498805
+OsREG425
+
+AK070901 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17496806 - 17498805
+OsREG646
+
+AK070901 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17496806 - 17498805
+OsREG514
+
+AK070901 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17496806 - 17498805
+OsREG454
+
+AK066672 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 304871 - 306870
+OsREG621
+
+AK066672 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 304871 - 306870
+OsREG447
+
+AK058355 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4031949 - 4033948
+OsREG435
+
+AK058355 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4031949 - 4033948
+OsREG451
+
+AK058355 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4031949 - 4033948
+OsREG502
+
+AK058355 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4031949 - 4033948
+OsREG509
+
+AK058355 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4031949 - 4033948
+OsREG467
+
+AK103980 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22036665 - 22038664
+OsREG593
+
+AK103980 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22036665 - 22038664
+OsREG447
+
+AK106046 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17173702 - 17175701
+OsREG604
+
+AK106046 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17173702 - 17175701
+OsREG548
+
+AK120495 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30570327 - 30572326
+OsREG436
+
+AK120495 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30570327 - 30572326
+OsREG444
+
+AK069774 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22740545 - 22742544
+OsREG635
+
+AK069774 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22740545 - 22742544
+OsREG452
+
+AK069774 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22740545 - 22742544
+OsREG457
+
+AK069774 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22740545 - 22742544
+OsREG509
+
+AK069774 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22740545 - 22742544
+OsREG531
+
+AK069774 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22740545 - 22742544
+OsREG562
+
+AK059484 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 2499675 - 2501674
+OsREG494
+
+AK059484 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 2499675 - 2501674
+OsREG425
+
+AK059484 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 2499675 - 2501674
+OsREG518
+
+AK059484 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 2499675 - 2501674
+OsREG642
+
+AK059484 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 2499675 - 2501674
+OsREG500
+
+AK059484 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 2499675 - 2501674
+OsREG581
+
+AK059484 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 2499675 - 2501674
+OsREG476
+
+AK062589 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11270522 - 11272521
+OsREG555
+
+AK062589 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11270522 - 11272521
+OsREG491
+
+AK062589 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11270522 - 11272521
+OsREG541
+
+AK062589 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11270522 - 11272521
+OsREG600
+
+AK062589 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11270522 - 11272521
+OsREG448
+
+AK062589 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11270522 - 11272521
+OsREG468
+
+AK062589 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11270522 - 11272521
+OsREG566
+
+AK062589 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11270522 - 11272521
+OsREG487
+
+AK062589 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11270522 - 11272521
+OsREG483
+
+AK062589 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11270522 - 11272521
+OsREG588
+
+AK069041 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22881138 - 22883137
+OsREG493
+
+AK120078 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28136905 - 28138904
+OsREG654
+
+AK063567 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19908640 - 19910639
+OsREG422
+
+AK063567 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19908640 - 19910639
+OsREG515
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG490
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG547
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG634
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG438
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG533
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG608
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG601
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG523
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG596
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG642
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG467
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG464
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG463
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG571
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG572
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG603
+
+AK120005 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1565453 - 1567452
+OsREG542
+
+AK068301 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19155206 - 19157205
+OsREG558
+
+AK068301 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19155206 - 19157205
+OsREG599
+
+AK068301 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19155206 - 19157205
+OsREG439
+
+AK068484 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23868233 - 23870232
+OsREG604
+
+AK068484 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23868233 - 23870232
+OsREG577
+
+AK073209 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34038145 - 34040144
+OsREG556
+
+AK073209 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34038145 - 34040144
+OsREG558
+
+AK073209 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34038145 - 34040144
+OsREG492
+
+AK073209 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34038145 - 34040144
+OsREG433
+
+AK073209 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34038145 - 34040144
+OsREG534
+
+AK073209 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34038145 - 34040144
+OsREG439
+
+AK073209 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34038145 - 34040144
+OsREG608
+
+AK073209 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34038145 - 34040144
+OsREG617
+
+AK073209 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34038145 - 34040144
+OsREG481
+
+AK068212 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28897535 - 28899534
+OsREG439
+
+AK068212 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28897535 - 28899534
+OsREG502
+
+AK068212 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28897535 - 28899534
+OsREG460
+
+AK062365 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 21600929 - 21602928
+OsREG499
+
+AK062365 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 21600929 - 21602928
+OsREG502
+
+AK062365 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 21600929 - 21602928
+OsREG470
+
+AK106059 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 33251920 - 33253919
+OsREG515
+
+AK106059 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 33251920 - 33253919
+OsREG585
+
+AK106059 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 33251920 - 33253919
+OsREG652
+
+AK070373 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12262732 - 12264731
+OsREG443
+
+AK105636 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28675205 - 28677204
+OsREG625
+
+AK105636 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28675205 - 28677204
+OsREG494
+
+AK105636 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28675205 - 28677204
+OsREG639
+
+AK105636 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28675205 - 28677204
+OsREG592
+
+AK105636 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28675205 - 28677204
+OsREG475
+
+AK060860 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26362700 - 26364699
+OsREG521
+
+AK060860 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26362700 - 26364699
+OsREG458
+
+AK064324 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19035891 - 19037890
+OsREG532
+
+AK064324 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19035891 - 19037890
+OsREG593
+
+AK064324 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19035891 - 19037890
+OsREG452
+
+AK064324 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19035891 - 19037890
+OsREG509
+
+AK066643 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 33895380 - 33897379
+OsREG583
+
+AK066643 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 33895380 - 33897379
+OsREG607
+
+AK066643 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 33895380 - 33897379
+OsREG476
+
+AK066643 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 33895380 - 33897379
+OsREG654
+
+AK058891 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 41537758 - 41539757
+OsREG499
+
+AK065544 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23557708 - 23559707
+OsREG638
+
+AK065544 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23557708 - 23559707
+OsREG433
+
+AK065544 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23557708 - 23559707
+OsREG525
+
+AK065544 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23557708 - 23559707
+OsREG454
+
+AK065544 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23557708 - 23559707
+OsREG578
+
+AK065544 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23557708 - 23559707
+OsREG481
+
+AK063733 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 6699280 - 6701279
+OsREG464
+
+AK063733 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 6699280 - 6701279
+OsREG603
+
+AK101374 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12326404 - 12328403
+OsREG523
+
+AK101374 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12326404 - 12328403
+OsREG520
+
+AK101374 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12326404 - 12328403
+OsREG511
+
+AK101374 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12326404 - 12328403
+OsREG456
+
+AK101374 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12326404 - 12328403
+OsREG459
+
+AK101374 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12326404 - 12328403
+OsREG580
+
+AK101374 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12326404 - 12328403
+OsREG470
+
+AK101374 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12326404 - 12328403
+OsREG573
+
+AK059618 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 2052222 - 2054221
+OsREG582
+
+AK059618 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 2052222 - 2054221
+OsREG429
+
+AK059618 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 2052222 - 2054221
+OsREG467
+
+AK059618 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 2052222 - 2054221
+OsREG609
+
+AK069557 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1842593 - 1844592
+OsREG422
+
+AK069557 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1842593 - 1844592
+OsREG456
+
+AK069557 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1842593 - 1844592
+OsREG501
+
+AK068586 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19460349 - 19462348
+OsREG448
+
+AK068586 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19460349 - 19462348
+OsREG448
+
+AK068586 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19460349 - 19462348
+OsREG507
+
+AK068586 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19460349 - 19462348
+OsREG507
+
+AK068586 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19460349 - 19462348
+OsREG481
+
+AK068586 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19460349 - 19462348
+OsREG481
+
+AK068750 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26001182 - 26003181
+OsREG447
+
+AK068750 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26001182 - 26003181
+OsREG510
+
+AK068750 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26001182 - 26003181
+OsREG505
+
+AK068750 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26001182 - 26003181
+OsREG475
+
+AK060140 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 32865839 - 32867838
+OsREG422
+
+AK060140 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 32865839 - 32867838
+OsREG636
+
+AK060140 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 32865839 - 32867838
+OsREG457
+
+AK060140 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 32865839 - 32867838
+OsREG501
+
+AK060140 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 32865839 - 32867838
+OsREG649
+
+AK060213 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25117734 - 25119733
+OsREG546
+
+AK060213 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25117734 - 25119733
+OsREG632
+
+AK060213 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25117734 - 25119733
+OsREG607
+
+AK060213 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25117734 - 25119733
+OsREG590
+
+AK060213 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25117734 - 25119733
+OsREG524
+
+AK060213 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25117734 - 25119733
+OsREG456
+
+AK060213 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25117734 - 25119733
+OsREG530
+
+AK060213 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25117734 - 25119733
+OsREG618
+
+AK067414 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27970462 - 27972461
+OsREG559
+
+AK067414 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27970462 - 27972461
+OsREG635
+
+AK067414 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27970462 - 27972461
+OsREG532
+
+AK067414 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27970462 - 27972461
+OsREG571
+
+AK067414 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27970462 - 27972461
+OsREG574
+
+AK064587 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 18014742 - 18016741
+OsREG556
+
+AK064587 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 18014742 - 18016741
+OsREG497
+
+AK064587 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 18014742 - 18016741
+OsREG583
+
+AK064587 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 18014742 - 18016741
+OsREG536
+
+AK064587 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 18014742 - 18016741
+OsREG503
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG497
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG491
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG582
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG427
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG430
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG533
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG608
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG604
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG523
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG452
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG451
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG507
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG509
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG467
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG467
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG473
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG577
+
+AK063984 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26925607 - 26927606
+OsREG603
+
+AK068907 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4763151 - 4765150
+OsREG625
+
+AK068907 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4763151 - 4765150
+OsREG497
+
+AK068907 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4763151 - 4765150
+OsREG639
+
+AK068907 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4763151 - 4765150
+OsREG635
+
+AK068907 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4763151 - 4765150
+OsREG430
+
+AK068907 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4763151 - 4765150
+OsREG587
+
+AK068907 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4763151 - 4765150
+OsREG618
+
+AK068907 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4763151 - 4765150
+OsREG471
+
+AK068907 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4763151 - 4765150
+OsREG576
+
+AK068907 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4763151 - 4765150
+OsREG609
+
+AK068907 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4763151 - 4765150
+OsREG489
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG556
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG625
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG497
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG583
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG421
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG429
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG430
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG430
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG593
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG520
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG549
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG467
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG471
+
+AK110251 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28874155 - 28876154
+OsREG474
+
+AK073345 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 18976153 - 18978152
+OsREG502
+
+AK073345 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 18976153 - 18978152
+OsREG573
+
+AK073345 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 18976153 - 18978152
+OsREG609
+
+AK073345 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 18976153 - 18978152
+OsREG651
+
+AK073345 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 18976153 - 18978152
+OsREG651
+
+AK068899 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 15626109 - 15628108
+OsREG529
+
+AK072736 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22021832 - 22023831
+OsREG630
+
+AK072736 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22021832 - 22023831
+OsREG606
+
+AK072736 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22021832 - 22023831
+OsREG542
+
+AK111752 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 11524273 - 11526272
+OsREG652
+
+AK070381 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 653771 - 655770
+OsREG490
+
+AK070381 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 653771 - 655770
+OsREG547
+
+AK070381 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 653771 - 655770
+OsREG546
+
+AK070381 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 653771 - 655770
+OsREG636
+
+AK070381 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 653771 - 655770
+OsREG590
+
+AK070381 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 653771 - 655770
+OsREG456
+
+AK070381 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 653771 - 655770
+OsREG648
+
+AK070381 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 653771 - 655770
+OsREG654
+
+AK063515 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28161136 - 28163135
+OsREG439
+
+AK063515 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28161136 - 28163135
+OsREG549
+
+AK063515 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28161136 - 28163135
+OsREG456
+
+AK063515 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28161136 - 28163135
+OsREG477
+
+AK063515 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28161136 - 28163135
+OsREG570
+
+AK063515 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28161136 - 28163135
+OsREG589
+
+AK064961 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27510303 - 27512302
+OsREG421
+
+AK064961 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27510303 - 27512302
+OsREG429
+
+AK064961 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27510303 - 27512302
+OsREG638
+
+AK064961 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27510303 - 27512302
+OsREG431
+
+AK064961 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27510303 - 27512302
+OsREG607
+
+AK064961 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27510303 - 27512302
+OsREG520
+
+AK064961 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27510303 - 27512302
+OsREG466
+
+AK064961 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27510303 - 27512302
+OsREG570
+
+AK064961 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 27510303 - 27512302
+OsREG488
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG556
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG498
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG631
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG628
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG598
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG535
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG600
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG526
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG522
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG522
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG441
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG449
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG612
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG614
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG510
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG640
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG640
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG640
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG616
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG506
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG508
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG627
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG478
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG571
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG641
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG543
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG566
+
+AK102393 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34886313 - 34888312
+OsREG482
+
+AK064650 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28564638 - 28566637
+OsREG498
+
+AK064650 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28564638 - 28566637
+OsREG626
+
+AK064650 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28564638 - 28566637
+OsREG615
+
+AK064650 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28564638 - 28566637
+OsREG503
+
+AK064650 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28564638 - 28566637
+OsREG574
+
+AK064650 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28564638 - 28566637
+OsREG577
+
+AK064650 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28564638 - 28566637
+OsREG659
+
+AK064650 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28564638 - 28566637
+OsREG659
+
+AK064650 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28564638 - 28566637
+OsREG487
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG555
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG558
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG546
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG602
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG448
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG449
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG519
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG617
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG530
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG508
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG466
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG585
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG585
+
+AK068319 Oryza sativa chromosome 6 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25745250 - 25747249
+OsREG562
+
+AK070939 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25506619 - 25508618
+OsREG559
+
+AK070939 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25506619 - 25508618
+OsREG425
+
+AK070939 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25506619 - 25508618
+OsREG547
+
+AK070939 Oryza sativa chromosome 12 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25506619 - 25508618
+OsREG454
+
+AK119929 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28522935 - 28524934
+OsREG558
+
+AK119929 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28522935 - 28524934
+OsREG635
+
+AK119929 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28522935 - 28524934
+OsREG594
+
+AK119929 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28522935 - 28524934
+OsREG626
+
+AK119929 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28522935 - 28524934
+OsREG500
+
+AK119929 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28522935 - 28524934
+OsREG502
+
+AK119929 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28522935 - 28524934
+OsREG531
+
+AK119929 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28522935 - 28524934
+OsREG531
+
+AK119929 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28522935 - 28524934
+OsREG542
+
+AK119929 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28522935 - 28524934
+OsREG563
+
+AK119929 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28522935 - 28524934
+OsREG483
+
+AK070863 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25336947 - 25338946
+OsREG438
+
+AK067651 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 24781201 - 24783200
+OsREG496
+
+AK067651 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 24781201 - 24783200
+OsREG582
+
+AK067651 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 24781201 - 24783200
+OsREG426
+
+AK067651 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 24781201 - 24783200
+OsREG429
+
+AK067651 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 24781201 - 24783200
+OsREG593
+
+AK067651 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 24781201 - 24783200
+OsREG525
+
+AK067651 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 24781201 - 24783200
+OsREG457
+
+AK067651 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 24781201 - 24783200
+OsREG467
+
+AK067651 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 24781201 - 24783200
+OsREG461
+
+AK066134 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 5440081 - 5442080
+OsREG468
+
+AK066134 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 5440081 - 5442080
+OsREG481
+
+AK071569 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17412087 - 17414086
+OsREG638
+
+AK071569 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17412087 - 17414086
+OsREG478
+
+AK071569 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17412087 - 17414086
+OsREG578
+
+AK071569 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17412087 - 17414086
+OsREG654
+
+AK071569 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17412087 - 17414086
+OsREG486
+
+AK065454 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28450751 - 28452750
+OsREG425
+
+AK065454 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28450751 - 28452750
+OsREG637
+
+AK065454 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28450751 - 28452750
+OsREG611
+
+AK065454 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28450751 - 28452750
+OsREG467
+
+AK065454 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28450751 - 28452750
+OsREG581
+
+AK065454 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28450751 - 28452750
+OsREG475
+
+AK065454 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28450751 - 28452750
+OsREG609
+
+AK065454 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28450751 - 28452750
+OsREG480
+
+AK064281 Oryza sativa chromosome 11 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28753994 - 28755993
+OsREG550
+
+AK064281 Oryza sativa chromosome 11 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28753994 - 28755993
+OsREG624
+
+AK064281 Oryza sativa chromosome 11 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28753994 - 28755993
+OsREG521
+
+AK064281 Oryza sativa chromosome 11 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28753994 - 28755993
+OsREG549
+
+AK064281 Oryza sativa chromosome 11 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28753994 - 28755993
+OsREG615
+
+AK064281 Oryza sativa chromosome 11 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28753994 - 28755993
+OsREG580
+
+AK064281 Oryza sativa chromosome 11 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28753994 - 28755993
+OsREG645
+
+AK107295 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26362147 - 26364146
+OsREG521
+
+AK107295 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26362147 - 26364146
+OsREG458
+
+AK060275 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17803412 - 17805411
+OsREG493
+
+AK060275 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17803412 - 17805411
+OsREG515
+
+AK060275 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17803412 - 17805411
+OsREG617
+
+AK060275 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17803412 - 17805411
+OsREG573
+
+AK060275 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 17803412 - 17805411
+OsREG481
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG555
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG490
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG499
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG546
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG635
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG435
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG431
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG607
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG526
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG511
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG466
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG460
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG548
+
+AK070754 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28623224 - 28625223
+OsREG480
+
+AK071209 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 15695843 - 15697842
+OsREG499
+
+AK071209 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 15695843 - 15697842
+OsREG499
+
+AK071209 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 15695843 - 15697842
+OsREG604
+
+AK071209 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 15695843 - 15697842
+OsREG513
+
+AK071209 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 15695843 - 15697842
+OsREG473
+
+AK070124 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 20275401 - 20277400
+OsREG589
+
+AK070946 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30359864 - 30361863
+OsREG554
+
+AK070946 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30359864 - 30361863
+OsREG621
+
+AK070946 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30359864 - 30361863
+OsREG623
+
+AK070946 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30359864 - 30361863
+OsREG559
+
+AK070946 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30359864 - 30361863
+OsREG477
+
+AK070946 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30359864 - 30361863
+OsREG561
+
+AK064168 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26309384 - 26311383
+OsREG536
+
+AK064168 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26309384 - 26311383
+OsREG617
+
+AK064168 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26309384 - 26311383
+OsREG603
+
+AK121402 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4912656 - 4914655
+OsREG499
+
+AK121402 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4912656 - 4914655
+OsREG536
+
+AK121402 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4912656 - 4914655
+OsREG466
+
+AK121402 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4912656 - 4914655
+OsREG657
+
+AK121402 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4912656 - 4914655
+OsREG482
+
+AK108715 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26308862 - 26310861
+OsREG536
+
+AK108715 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26308862 - 26310861
+OsREG617
+
+AK108715 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26308862 - 26310861
+OsREG603
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG419
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG494
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG492
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG423
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG421
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG421
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG427
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG428
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG639
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG434
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG433
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG602
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG445
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG449
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG449
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG644
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG515
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG518
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG530
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG508
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG463
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG580
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG481
+
+AK065514 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 34935314 - 34937313
+OsREG647
+
+AK100678 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23056815 - 23058814
+OsREG494
+
+AK100678 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23056815 - 23058814
+OsREG599
+
+AK100678 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23056815 - 23058814
+OsREG527
+
+AK100678 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23056815 - 23058814
+OsREG611
+
+AK100678 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23056815 - 23058814
+OsREG543
+
+AK067064 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 175153 - 177152
+OsREG421
+
+AK067064 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 175153 - 177152
+OsREG426
+
+AK067064 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 175153 - 177152
+OsREG434
+
+AK067064 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 175153 - 177152
+OsREG437
+
+AK067064 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 175153 - 177152
+OsREG608
+
+AK067064 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 175153 - 177152
+OsREG458
+
+AK067064 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 175153 - 177152
+OsREG507
+
+AK067064 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 175153 - 177152
+OsREG466
+
+AK067064 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 175153 - 177152
+OsREG586
+
+AK067064 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 175153 - 177152
+OsREG469
+
+AK067064 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 175153 - 177152
+OsREG548
+
+AK109796 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 26635816 - 26637815
+OsREG636
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG422
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG639
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG638
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG431
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG525
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG521
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG613
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG509
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG467
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG581
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG657
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG481
+
+AK060423 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23354169 - 23356168
+OsREG488
+
+AK072910 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 38024774 - 38026773
+OsREG550
+
+AK072910 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 38024774 - 38026773
+OsREG595
+
+AK072910 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 38024774 - 38026773
+OsREG523
+
+AK072910 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 38024774 - 38026773
+OsREG514
+
+AK072910 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 38024774 - 38026773
+OsREG462
+
+AK072910 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 38024774 - 38026773
+OsREG476
+
+AK072910 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 38024774 - 38026773
+OsREG578
+
+AK072910 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 38024774 - 38026773
+OsREG654
+
+AK069782 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 270854 - 272853
+OsREG612
+
+AK069782 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 270854 - 272853
+OsREG586
+
+AK058890 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 3675525 - 3677524
+OsREG496
+
+AK058890 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 3675525 - 3677524
+OsREG496
+
+AK058890 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 3675525 - 3677524
+OsREG429
+
+AK058890 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 3675525 - 3677524
+OsREG429
+
+AK058890 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 3675525 - 3677524
+OsREG515
+
+AK058890 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 3675525 - 3677524
+OsREG466
+
+AK058890 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 3675525 - 3677524
+OsREG463
+
+AK058890 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 3675525 - 3677524
+OsREG657
+
+AK111720 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28556264 - 28558263
+OsREG556
+
+AK111720 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28556264 - 28558263
+OsREG555
+
+AK111720 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28556264 - 28558263
+OsREG424
+
+AK111720 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28556264 - 28558263
+OsREG626
+
+AK111720 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28556264 - 28558263
+OsREG506
+
+AK111720 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28556264 - 28558263
+OsREG577
+
+AK111720 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28556264 - 28558263
+OsREG659
+
+AK111720 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28556264 - 28558263
+OsREG567
+
+AK111720 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28556264 - 28558263
+OsREG488
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG498
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG545
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG510
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG517
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG514
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG454
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG627
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG648
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG579
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG650
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG653
+
+AK120151 Oryza sativa chromosome 9 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 19963263 - 19965262
+OsREG483
+
+AK066068 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28860600 - 28862599
+OsREG607
+
+AK066068 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28860600 - 28862599
+OsREG513
+
+AK066068 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28860600 - 28862599
+OsREG450
+
+AK066068 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28860600 - 28862599
+OsREG503
+
+AK066068 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28860600 - 28862599
+OsREG508
+
+AK066068 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28860600 - 28862599
+OsREG474
+
+AK066068 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 28860600 - 28862599
+OsREG603
+
+AK063260 Oryza sativa chromosome 11 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 420275 - 422274
+OsREG503
+
+AK100504 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890318 - 22892317
+OsREG598
+
+AK100504 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890318 - 22892317
+OsREG535
+
+AK100504 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890318 - 22892317
+OsREG613
+
+AK100504 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890318 - 22892317
+OsREG502
+
+AK100504 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890318 - 22892317
+OsREG502
+
+AK100504 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890318 - 22892317
+OsREG461
+
+AK072774 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890512 - 22892511
+OsREG598
+
+AK072774 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890512 - 22892511
+OsREG535
+
+AK072774 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890512 - 22892511
+OsREG613
+
+AK072774 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890512 - 22892511
+OsREG502
+
+AK072774 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890512 - 22892511
+OsREG502
+
+AK072774 Oryza sativa chromosome 2 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 22890512 - 22892511
+OsREG461
+
+AK071404 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23812222 - 23814221
+OsREG491
+
+AK071404 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23812222 - 23814221
+OsREG490
+
+AK071404 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23812222 - 23814221
+OsREG545
+
+AK071404 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23812222 - 23814221
+OsREG590
+
+AK071404 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23812222 - 23814221
+OsREG456
+
+AK071404 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23812222 - 23814221
+OsREG586
+
+AK071404 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23812222 - 23814221
+OsREG561
+
+AK071404 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23812222 - 23814221
+OsREG480
+
+AK121810 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23034448 - 23036447
+OsREG607
+
+AK121810 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23034448 - 23036447
+OsREG452
+
+AK121810 Oryza sativa chromosome 8 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 23034448 - 23036447
+OsREG573
+
+AK069215 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4142983 - 4144982
+OsREG496
+
+AK069215 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4142983 - 4144982
+OsREG426
+
+AK069215 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4142983 - 4144982
+OsREG594
+
+AK069215 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 4142983 - 4144982
+OsREG458
+
+AK065358 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30587859 - 30589858
+OsREG470
+
+AK063857 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1665248 - 1667247
+OsREG591
+
+AK063857 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1665248 - 1667247
+OsREG440
+
+AK063857 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1665248 - 1667247
+OsREG465
+
+AK063857 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 1665248 - 1667247
+OsREG560
+
+AK068905 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25562517 - 25564516
+OsREG633
+
+AK068905 Oryza sativa chromosome 5 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 25562517 - 25564516
+OsREG453
+
+AK066546 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30551037 - 30553036
+OsREG554
+
+AK066546 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30551037 - 30553036
+OsREG638
+
+AK066546 Oryza sativa chromosome 4 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 30551037 - 30553036
+OsREG443
+
+AK102058 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12914883 - 12916882
+OsREG437
+
+AK102058 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12914883 - 12916882
+OsREG593
+
+AK102058 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12914883 - 12916882
+OsREG591
+
+AK102058 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12914883 - 12916882
+OsREG515
+
+AK102058 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12914883 - 12916882
+OsREG500
+
+AK102058 Oryza sativa chromosome 7 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 12914883 - 12916882
+OsREG465
+
+AK069394 Oryza sativa chromosome 3 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14557322 - 14559321
+OsREG480
+
+AK065319 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14752835 - 14754834
+OsREG628
+
+AK065319 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14752835 - 14754834
+OsREG459
+
+AK065319 Oryza sativa chromosome 1 MSU Release 7/PlantGDB v187 (22 Feb 2012) bases 14752835 - 14754834
+OsREG487
+
