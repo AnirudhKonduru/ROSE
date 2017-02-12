@@ -34,8 +34,10 @@ if rows_end > sheet.nrows:
     rows_end = sheet.nrows
 for i in range(rows_start-1,  rows_end):
     if sheet.cell(i, gene_col).value!='' and sheet.cell(i, seq_col).value!='':
-        line = ">"+sheet.cell(i, gene_col).value+"\n"+sheet.cell(i, seq_col).value+"\n"
-        ascii_line = line.replace(u'\xa0',u'')
-        f.write(ascii_line)
-        entries+=1
+        if sheet.cell(i, seq_col).value!='NONE':
+            line = ">"+sheet.cell(i, gene_col).value.strip(' ')+"\n"
+            line += sheet.cell(i, seq_col).value.strip(' ')+"\n"
+            ascii_line = line.replace(u'\xa0',u'')
+            f.write(ascii_line)
+            entries+=1
 print str(entries)+" entries addded."

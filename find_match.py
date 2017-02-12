@@ -25,10 +25,10 @@ def get_hamming(str1, str2, max_hamming=-1):
                 return -1
     return err
 
-seqs = map(Seq.from_fasta, read_fasta_file("nodupv4.fasta"))
+seqs = map(Seq.from_fasta, read_fasta_file("NA.fasta"))
 print [x.fasta()+"\n" for x in seqs[0:3]]
 print "fasta"
-octs = map(Seq.from_fasta, read_fasta_file("rose.fasta"))
+octs = map(Seq.from_fasta, read_fasta_file("octomers.fasta"))
 entries = 0
 f = open("find_rose_flaking.fasta",'w')
 
