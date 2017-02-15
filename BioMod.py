@@ -31,3 +31,28 @@ class Seq(object):
 
     def len(self):
         return len(self.seq)
+
+def read_fasta_file(file_name):
+    with open(file_name, "r") as f:
+        fastas = []
+        new = "default"
+        for line in f:
+            if line[0]=='>':
+                fastas.append(new)
+                new=line
+            else:
+                new = new+line
+        fastas.remove("default")
+    return fastas
+
+def get_hamming(str1, str2, max_hamming=-1):
+    leng = min(len(str1),len(str2))
+    if max_hamming==-1:
+        max_hamming=leng;
+    err = 0;
+    for i in range(0,leng):
+        if str1[i] != str2[i]:
+            err += 1
+            if err>max_hamming:
+                return -1
+    return err

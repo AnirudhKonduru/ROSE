@@ -17,7 +17,6 @@ def get_seq(chr_no, start, size):
     else:
         #includes the base at reg_seq_start
         hits = str(chr_no)+":"+str(start)+":"+str(start+size-1)
-    print "hits: "+hits
     params = {'program':'returnFASTA',
     'db':'GENOME',
     'dbid':'4',
@@ -34,32 +33,36 @@ def get_seq(chr_no, start, size):
     return fasta_string
 
 
-promoter_db = xl.open_workbook("pd.xlsx")
-segregated_db = xl.open_workbook("segregated_genes.xlsx")
+geneID_list = xl.open_workbook("regulated_NF.xlsx")
+microarray_db = xl.open_workbook("segregated_genes.xlsx")
 
 print "opening xlsx"
 
-NA_u2_sheet = promoter_db.sheet_by_name("up>2")
-fold_up2_sheet = segregated_db.sheet_by_name("fold change_up>2")
+NA_sheet = geneID_list.sheet_by_name("down regulated tolerance")
+microarray_sheet = microarray_db.sheet_by_name("Down")
 
 
-print NA_u2_sheet.nrows
-print NA_u2_sheet.ncols
-print fold_up2_sheet.nrows
-print fold_up2_sheet.ncols
+print NA_sheet.nrows
+print NA_sheet.ncols
+print microarray_sheet.nrows
+print microarray_sheet.ncols
 
 print "Enter Output File Name: "
 op_file = raw_input()
 if op_file == "":
-    f = open('NA.fasta', 'w')
+    f = open('PPDB.out', 'w')
+    no_sufficient_data = open("PPDB.no_sufficient_data.out",'w')
+    not_found = open("PPDB.not_found.out", 'w')
 else:
-    f = open(op_file, 'w')
+    f = open(op_file+".fasta", 'w')
+    no_sufficient_data = open(op_file+".no_sufficient_data.out",'w')
+    not_found = open(op_file+"PPDB.not_found.out", 'w')
 x=0
 
 NA_list = []
-for i in range(1,NA_u2_sheet.nrows):
+for i in range(1,NA_sheet.nrows):
     '''seq from not_available col'''
-    NA_seq = NA_u2_sheet.cell(i,8).value
+    NA_seq = NA_sheet.cell(i,0).value
     if NA_seq != "":
         if NA_seq not in NA_list:
             NA_list.append(NA_seq)
@@ -68,31 +71,30 @@ for i in range(1,NA_u2_sheet.nrows):
 
 print "NA list: "+str(len(NA_list))
 
+
 for NA_seq in NA_list:
-    for j in range(1, fold_up2_sheet.nrows):
-        accession = fold_up2_sheet.cell(j,18).value
+    NA_found_flag = False
+    for j in range(1, microarray_sheet.nrows):
+        accession = microarray_sheet.cell(j,18).value
         if NA_seq in accession:
-            chr_no = fold_up2_sheet.cell(j,21).value
-            start_no = fold_up2_sheet.cell(j,22).value
+            NA_found_flag = True
+            chr_no = microarray_sheet.cell(j,21).value
+            start_no = microarray_sheet.cell(j,22).value
             if chr_no=="" or start_no=="":
-                print "Chromosome No or start No for "+NA_seq+" not available\n"
+                no_sufficient_data.write(NA_seq+'\n')
+                #print "Chromosome No or start No for "+NA_seq+" not available\n"
                 break;
             chr_no = int(chr_no[-2:])
             start_no = int(start_no)
-            print NA_seq
             x = x+1
+            print x
             fasta = get_seq(chr_no, start_no, -2000)+'\n'
-            #new = Seq.from_fasta(fasta)
-            #new.id = NA_seq
-            #new.chr = chr_no
-            #new.pos = start_no
             id_line, seq = fasta.split("\n",1)
             id_line = ">"+NA_seq+" "+str(chr_no)+" "+str(start_no)+"\n"
             #seq = id_line + seq
             new = Seq(NA_seq, seq.strip('\n'), chr_no, start_no)
             f.write(new.fasta())
-            '''print get_seq(chr_no, start_no, 2000)'''
-            print "Done: "+str(x)
             break
-
+    if(NA_found_flag == False):
+        not_found.write(NA_seq+"\n")
 print str(x)+" Entries added\n"
