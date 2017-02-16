@@ -1,13 +1,22 @@
 import BioMod as BM
 from BioMod import Seq
 
-seqs = map(Seq.from_fasta, BM.read_fasta_file("NA.fasta"))
+print "File names"
+haystack_fname = raw_input()
+needle_fname = raw_input()
+
+seqs = map(Seq.from_fasta, BM.read_fasta_file(haystack_fname))
 print [x.fasta()+"\n" for x in seqs[0:3]]
 print "fasta"
-octs = map(Seq.from_fasta, BM.read_fasta_file("octomers.fasta"))
+octs = map(Seq.from_fasta, BM.read_fasta_file(needle_fname))
 entries = 0
-f = open("test.fasta",'w')
 
+print "Output File Name: "
+op_fname = raw_input()
+if op_fname==""
+    f = open("find_match.out",'w')
+else
+    f = open(op_fname,'w')
 
 for o in octs:
     for s in seqs:
