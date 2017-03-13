@@ -1,3 +1,5 @@
+import re
+
 class Seq(object):
     def __init__(self,id,seq, chr=-1, pos=-1, pos_end=-1):
         self.seq = seq
@@ -56,3 +58,26 @@ def get_hamming(str1, str2, max_hamming=-1):
             if err>max_hamming:
                 return -1
     return err
+
+#converts string with iupac nucleotide codes to regex strings
+def seq2regex(seq):
+    seq = seq.replace('R','[AG]')
+    seq = seq.replace('Y','[CT]')
+    seq = seq.replace('S','[GC]')
+    seq = seq.replace('W','[AT]')
+    seq = seq.replace('K','[GT]')
+    seq = seq.replace('M','[AC]')
+    seq = seq.replace('B','[CGT]')
+    seq = seq.replace('D','[AGT]')
+    seq = seq.replace('H','[ACT]')
+    seq = seq.replace('V','[ACG]')
+    seq = seq.replace('N', '[ATGC]')
+    return seq
+
+#finds all occurences of needle in haystack
+#returns list of start positions in haystack string
+def findSeq(needle, haystack, regex=True):
+    if regex==True:
+        needle_r = re.compile(seq2regex(needle))
+        matches = needle_r.finditer(haystack)
+        return [x.start() for x in matches]
