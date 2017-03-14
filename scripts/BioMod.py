@@ -1,4 +1,4 @@
-import re
+import regex as re
 
 class Seq(object):
     def __init__(self,id,seq, chr=-1, pos=-1, pos_end=-1):
@@ -79,5 +79,5 @@ def seq2regex(seq):
 def findSeq(needle, haystack, regex=True):
     if regex==True:
         needle_r = re.compile(seq2regex(needle))
-        matches = needle_r.finditer(haystack)
+        matches = needle_r.finditer(haystack, overlapped=True)
         return [x.start() for x in matches]

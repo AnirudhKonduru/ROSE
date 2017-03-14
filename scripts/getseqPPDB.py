@@ -33,8 +33,8 @@ def get_seq(chr_no, start, size):
     return fasta_string
 
 
-geneID_list = xl.open_workbook("regulated_NF.xlsx")
-microarray_db = xl.open_workbook("segregated_genes.xlsx")
+geneID_list = xl.open_workbook("../regulated_NF.xlsx")
+microarray_db = xl.open_workbook("../segregated_genes.xlsx")
 
 print "opening xlsx"
 
