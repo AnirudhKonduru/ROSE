@@ -34,12 +34,12 @@ def get_seq(chr_no, start, size):
 
 
 geneID_list = xl.open_workbook("../regulated_NF.xlsx")
-microarray_db = xl.open_workbook("../segregated_genes.xlsx")
+microarray_db = xl.open_workbook("../tol genes.xlsx")
 
 print "opening xlsx"
 
-NA_sheet = geneID_list.sheet_by_name("down regulated tolerance")
-microarray_sheet = microarray_db.sheet_by_name("Down")
+NA_sheet = geneID_list.sheet_by_name("up regulated tolerance")
+microarray_sheet = microarray_db.sheet_by_name("Up")
 
 
 print NA_sheet.nrows
