@@ -1,0 +1,22 @@
+Hits:-
+up_sus=123505
+down_sus=60351
+down_tol=99733
+up_tol=36602
+
+Cis elements:-
+cis_sus=233
+cis_tol=208
+
+
+2k seqs:-
+up_sus=516
+down_sus=266
+down_tol=457
+up_tol=156
+
+Ratio:-
+up_sus=1.027
+down_sus=0.97
+down_tol=1.04
+up_tol=1.12
