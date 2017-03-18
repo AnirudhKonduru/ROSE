@@ -1,3 +1,4 @@
 *.pyc
 .~*
 *.xlsx#
+scripts/test*.py
