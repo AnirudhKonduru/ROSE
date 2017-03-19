@@ -53,7 +53,7 @@ class Seq(object):
         return seq2regex(self.seq)
 
 def seq2regex(seq):
-    regex_seq = regex_seq
+    regex_seq = seq
     regex_seq = regex_seq.replace('R','[AG]')
     regex_seq = regex_seq.replace('Y','[CT]')
     regex_seq = regex_seq.replace('S','[GC]')
