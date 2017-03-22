@@ -1,33 +1,48 @@
-import BioMod as BM
-from BioMod import Seq
-import re
+from BioMod import *
+import csv
 
-haystack_fname = raw_input("Haystack: ")
-needle_fname = raw_input("Needle: ")
+fnames = ["up sus", "down sus", "up tol", "down tol"]
 
-seqs = map(Seq.from_fasta, BM.read_fasta_file(haystack_fname))
-print [x.fasta()+"\n" for x in seqs[0:3]]
-octs = map(Seq.from_fasta, BM.read_fasta_file(needle_fname))
-entries = 0
+#read all 2k seq fasta files
+HS = {  "up sus":read_fasta_file("../2kseqs/up_sus.fasta"),
+        "down sus":read_fasta_file("../2kseqs/down_sus.fasta"),
+        "up tol":read_fasta_file("../2kseqs/up_tol.fasta"),
+        "down tol":read_fasta_file("../2kseqs/down_tol.fasta")
+}
 
-op_fname = raw_input("Output File Name: ")
-if op_fname=="":
-    f = open("find_match.out",'w')
-else:
-    f = open(op_fname,'w')
+#read cis element fastas corresponding to fastas in HS
+NS = {  "up sus":read_fasta_file("../cis_elements_sus.fasta"),
+        "down sus":read_fasta_file("../cis_elements_sus.fasta"),
+        "up tol":read_fasta_file("../cis_elements_tol.fasta"),
+        "down tol":read_fasta_file("../cis_elements_tol.fasta")
 
-for o in octs:
-    for s in seqs:
-        for i in range(0,s.len() - o.len() -1):
-            sub_seq = s.seq[i:i+o.len()]
-            if BM.get_hamming(o.seq, sub_seq, max_hamming=0) != -1:
-                print sub_seq+"\n"+o.seq+"\n"
+}
 
-                #extract flanking reqions
-                #f.write(str(i))
-                new = Seq(o.id+"|"+s.id, s.seq[i-2:i+o.len()+2], s.chr, s.pos-5+i)
-                #new = Seq(o.id+"|"+s.id, s.seq[i:i+o.len()], s.chr, s.pos)
+for fname in fnames:
+    hs = HS[fname]
+    ns=NS[fname]
+    f = open(fname+".csv", 'wb')
+    writer = csv.writer(f)
+    total_count =0;
+    n_count=0
 
-                f.write(new.fasta())
-                entries += 1
-                print "Entry No: " + str(entries)
+    for n in ns:
+        n_count=0
+        for h in hs:
+            matches = findSeq(n,h,regex=True)
+            for x in matches:
+                total_count+=1
+                n_count+=1
+                #modify csv entry and counts as needed
+                '''
+                #for csv of all matches
+                csv_entry = [n.id,n.seq,h.id,h.seq[x:x+len(n.seq)],x]
+                writer.writerow(csv_entry)
+                '''
+        csv_entry=[n.id,n.seq,n_count]
+        writer.writerow(csv_entry)
+
+    print fname
+    print "matches: "+str(total_count)
+    print "total needles: "+str(len(ns))
+    print "total haystacks: "+str(len(hs))
