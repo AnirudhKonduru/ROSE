@@ -1,20 +1,20 @@
 from BioMod import *
 import csv
 
-fnames = ["up sus", "down sus", "up tol", "down tol"]
+fnames = ["up_sus", "down_sus", "up_tol", "down_tol"]
 
 #read all 2k seq fasta files
-HS = {  "up sus":read_fasta_file("../2kseqs/up_sus.fasta"),
-        "down sus":read_fasta_file("../2kseqs/down_sus.fasta"),
-        "up tol":read_fasta_file("../2kseqs/up_tol.fasta"),
-        "down tol":read_fasta_file("../2kseqs/down_tol.fasta")
+HS = {  "up_sus":read_fasta_file("../2kseqs/up_sus.fasta"),
+        "down_sus":read_fasta_file("../2kseqs/down_sus.fasta"),
+        "up_tol":read_fasta_file("../2kseqs/up_tol.fasta"),
+        "down_tol":read_fasta_file("../2kseqs/down_tol.fasta")
 }
 
 #read cis element fastas corresponding to fastas in HS
-NS = {  "up sus":read_fasta_file("../cis_elements_sus.fasta"),
-        "down sus":read_fasta_file("../cis_elements_sus.fasta"),
-        "up tol":read_fasta_file("../cis_elements_tol.fasta"),
-        "down tol":read_fasta_file("../cis_elements_tol.fasta")
+NS = {  "up_sus":read_fasta_file("../Data/rose.fasta"),
+        "down_sus":read_fasta_file("../Data/rose.fasta"),
+        "up_tol":read_fasta_file("../Data/rose.fasta"),
+        "down_tol":read_fasta_file("../Data/rose.fasta")
 
 }
 

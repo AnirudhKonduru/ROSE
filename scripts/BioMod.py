@@ -19,7 +19,7 @@ class Seq(object):
             res +=self.seq[:10]+"......"+self.seq[-10:]
         return res
 
-    def __repr(self):
+    def __repr__(self):
         return self.__str__()
 #converts singe fasta string to Seq object
     @classmethod
