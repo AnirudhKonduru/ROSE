@@ -7,7 +7,7 @@ fnames = ["up_sus", "down_sus", "up_tol", "down_tol"]
 files = {}
 readers = {}
 for fname in fnames:
-    files[fname] = open("../Results/rose_matches_counts/"+fname+".csv", 'rb')
+    files[fname] = open("../Results/cis_matches_counts/"+fname+".csv", 'rb')
     readers[fname] = csv.reader(files[fname], delimiter=',')
 
 class motif(object):

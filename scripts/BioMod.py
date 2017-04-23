@@ -109,7 +109,7 @@ def read_fasta(fasta_str=""):
     #each string is one fasta Entry
     fastas = []
     new = "default"
-    lines = [x+'\n' for x in fasta_str.split('\n')]
+    lines = [x.strip()+'\n' for x in fasta_str.split('\n')]
     for line in lines:
         if line=="\n" or line=="":
             continue

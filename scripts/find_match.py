@@ -11,10 +11,10 @@ HS = {  "up_sus":read_fasta_file("../2kseqs/up_sus.fasta"),
 }
 
 #read cis element fastas corresponding to fastas in HS
-NS = {  "up_sus":read_fasta_file("../Data/rose.fasta"),
-        "down_sus":read_fasta_file("../Data/rose.fasta"),
-        "up_tol":read_fasta_file("../Data/rose.fasta"),
-        "down_tol":read_fasta_file("../Data/rose.fasta")
+NS = {  "up_sus":read_fasta_file("../Data/cis_elements_sus.fasta"),
+        "down_sus":read_fasta_file("../Data/cis_elements_sus.fasta"),
+        "up_tol":read_fasta_file("../Data/cis_elements_tol.fasta"),
+        "down_tol":read_fasta_file("../Data/cis_elements_tol.fasta")
 
 }
 
@@ -34,14 +34,14 @@ for fname in fnames:
                 total_count+=1
                 n_count+=1
                 #modify csv entry and counts as needed
-                '''
+
                 #for csv of all matches
                 csv_entry = [n.id,n.seq,h.id,h.seq[x:x+len(n.seq)],x]
                 writer.writerow(csv_entry)
-                '''
+        '''
         csv_entry=[n.id,n.seq,n_count]
         writer.writerow(csv_entry)
-
+        '''
     print fname
     print "matches: "+str(total_count)
     print "total needles: "+str(len(ns))
