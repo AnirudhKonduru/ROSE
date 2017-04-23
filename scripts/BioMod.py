@@ -67,6 +67,22 @@ def seq2regex(seq):
     regex_seq = regex_seq.replace('N', '[ATGC]')
     return regex_seq
 
+def compilment(seq):
+    y=''
+    m={
+    'A':'T','T':'A',
+    'C':'G','G':'C',
+    'N':'N',
+    'R':'Y','Y':'R',
+    'W':'W','S':'S',
+    'K':'M','M':'K',
+    'B':'V','V':'B',
+    'D':'H','H':'D',
+    }
+    for i in range(0,len(s)):
+        y+=m[s[i]]
+    return y
+
 def get_hamming(str1, str2, max_hamming=-1):
     leng = min(len(str1),len(str2))
     if max_hamming==-1:
